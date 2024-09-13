@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".animationportfolio"
+    android:orientation="vertical"
+    android:background="@drawable/gradientvertical"
+    >
+    <TextView
+        android:letterSpacing="0.1"
+       android:fontFamily="sans-serif-thin"
+        android:id="@+id/portfoliologo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Portfolio"
+        android:textColor="#121111"
+        android:gravity="center"
+        android:layout_marginTop="300dp"
+        android:textSize="70dp"
+
+        ></TextView>
+
+</LinearLayout>

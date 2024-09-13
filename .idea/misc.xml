@@ -1,0 +1,34 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/prath/AndroidStudioProjects/AnimationEffect/app/src/main/res/drawable/circlebutton.xml" value="0.1" />
+        <entry key="..\:/Users/prath/AndroidStudioProjects/AnimationEffect/app/src/main/res/drawable/circular_btn.xml" value="0.1265" />
+        <entry key="..\:/Users/prath/AndroidStudioProjects/AnimationEffect/app/src/main/res/drawable/circularbtn.xml" value="0.1265" />
+        <entry key="..\:/Users/prath/AndroidStudioProjects/AnimationEffect/app/src/main/res/drawable/gobuttonlayout.xml" value="0.1" />
+        <entry key="..\:/Users/prath/AndroidStudioProjects/AnimationEffect/app/src/main/res/drawable/login_page_layout.xml" value="0.1265" />
+        <entry key="..\:/Users/prath/AndroidStudioProjects/AnimationEffect/app/src/main/res/drawable/loginwithbuttons.xml" value="0.1265" />
+        <entry key="..\:/Users/prath/AndroidStudioProjects/AnimationEffect/app/src/main/res/layout/activity_animationportfolio.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/prath/AndroidStudioProjects/AnimationEffect/app/src/main/res/layout/activity_homepage.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/prath/AndroidStudioProjects/AnimationEffect/app/src/main/res/layout/activity_login_with_emailpage.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/prath/AndroidStudioProjects/AnimationEffect/app/src/main/res/layout/activity_loginactivity.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/prath/AndroidStudioProjects/AnimationEffect/app/src/main/res/layout/activity_loginpage.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/prath/AndroidStudioProjects/AnimationEffect/app/src/main/res/layout/activity_loginwithlayout.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/prath/AndroidStudioProjects/AnimationEffect/app/src/main/res/layout/activity_main.xml" value="0.18292682926829268" />
+        <entry key="..\:/Users/prath/AndroidStudioProjects/AnimationEffect/app/src/main/res/layout/activity_otp_page.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/prath/AndroidStudioProjects/AnimationEffect/app/src/main/res/layout/activity_otppage.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/prath/AndroidStudioProjects/AnimationEffect/app/src/main/res/layout/activity_signup.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/prath/AndroidStudioProjects/AnimationEffect/app/src/main/res/layout/activity_signupact.xml" value="0.264" />
+        <entry key="..\:/Users/prath/AndroidStudioProjects/AnimationEffect/app/src/main/res/layout/activity_signuppage.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/prath/AndroidStudioProjects/AnimationEffect/app/src/main/res/layout/activity_signupwithemail.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/prath/AndroidStudioProjects/AnimationEffect/app/src/main/res/layout/loginwithlayout.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
